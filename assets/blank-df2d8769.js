@@ -1,0 +1,1 @@
+import{_ as o,d as t,o as n,v as _,j as a}from"./index-dfeb318d.js";const s={},c={class:"layout-wrapper layout-blank"};function r(l,p){const e=t("RouterView");return n(),_("div",c,[a(e)])}const d=o(s,[["render",r]]);export{d as default};
