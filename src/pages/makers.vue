@@ -18,7 +18,7 @@ onMounted(async () => {
   //   makers.value = data
   // })
   try {
-    const response = await fetch('http://localhost:8000/api/v1/makers')
+    const response = await fetch('laravelapi-production-8f1e.up.railway.app/api/v1/makers')
 
     makers.value = await response.json()
 
